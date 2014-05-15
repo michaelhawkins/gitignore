@@ -5,7 +5,6 @@ bin/
 /lib
 /logs/
 /modules/
-/target
 tmp/
 test-result
 server.pid
@@ -15,8 +14,7 @@ server.pid
 # Ignore activator stuff
 logs
 project/project
-project/target
-target
+target/
 tmp
 .history
 dist
