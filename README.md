@@ -1,1 +1,1 @@
-These are a set of baseline gitignores for various platforms
+These are a set of baseline gitignores for various platforms and frameworks
